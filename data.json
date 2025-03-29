@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Song One",
+      "artist": "Artist A",
+      "genre": "Pop",
+      "spriteColor": "red"
+    },
+    {
+      "id": 2,
+      "title": "Song Two",
+      "artist": "Artist B",
+      "genre": "Rock",
+      "spriteColor": "blue"
+    },
+    {
+      "id": 3,
+      "title": "Song Three",
+      "artist": "Artist C",
+      "genre": "Jazz",
+      "spriteColor": "green"
+    }
+  ]
+  
